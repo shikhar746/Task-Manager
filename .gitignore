@@ -1,4 +1,5 @@
 node_modules/
 tasks.db
+.env
 coverage/
 *.log
